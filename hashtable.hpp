@@ -1,7 +1,15 @@
+//----------------------------------------------------------------------------
+/// \file  hashtable.hpp
+//----------------------------------------------------------------------------
+/// \brief Definition of hashtable type and string hashing functions.
+//----------------------------------------------------------------------------
+// Copyright (c) 2010 Serge Aleynikov <saleyn@gmail.com>
+// Created: 2010-09-30
+//----------------------------------------------------------------------------
 /*
 ***** BEGIN LICENSE BLOCK *****
 
-This file is part of the EPI (Erlang Plus Interface) Library.
+This file is part of the REPLOG project.
 
 Copyright (C) 2010 Serge Aleynikov <saleyn@gmail.com>
 

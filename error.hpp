@@ -1,7 +1,15 @@
+//----------------------------------------------------------------------------
+/// \file  error.hpp
+//----------------------------------------------------------------------------
+/// \brief Definition of exception classes.
+//----------------------------------------------------------------------------
+// Copyright (c) 2010 Serge Aleynikov <saleyn@gmail.com>
+// Created: 2010-09-30
+//----------------------------------------------------------------------------
 /*
 ***** BEGIN LICENSE BLOCK *****
 
-This file is part of the EPI (Erlang Plus Interface) Library.
+This file is part of the REPLOG project.
 
 Copyright (C) 2010 Serge Aleynikov <saleyn@gmail.com>
 

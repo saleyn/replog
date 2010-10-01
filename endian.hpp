@@ -9,6 +9,8 @@
 /*
 ***** BEGIN LICENSE BLOCK *****
 
+This file is part of the REPLOG project.
+
 Copyright (C) 2010 Serge Aleynikov <saleyn@gmail.com>
 
 This library is free software; you can redistribute it and/or
